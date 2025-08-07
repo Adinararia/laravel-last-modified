@@ -15,7 +15,7 @@
             "role": "Developer"
         }
     ],
-    "homepage": "https://github.com/abordage/laravel-last-modified",
+    "homepage": "https://github.com/adinaria/laravel-last-modified",
     "require": {
         "php": "^8.2",
         "illuminate/support": "^12.0"
@@ -31,12 +31,12 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "Abordage\\LastModified\\": "src"
+            "Adinaria\\LastModified\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Abordage\\LastModified\\Tests\\": "tests"
+            "Adinaria\\LastModified\\Tests\\": "tests"
         }
     },
     "config": {
@@ -45,10 +45,10 @@
     "extra": {
         "laravel": {
             "aliases": {
-                "LastModified": "Abordage\\LastModified\\Facades\\LastModified"
+                "LastModified": "Adinaria\\LastModified\\Facades\\LastModified"
             },
             "providers": [
-                "Abordage\\LastModified\\LastModifiedServiceProvider"
+                "Adinaria\\LastModified\\LastModifiedServiceProvider"
             ]
         }
     },

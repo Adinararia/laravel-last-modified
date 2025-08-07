@@ -10,7 +10,7 @@ use Illuminate\Support\Facades\Facade;
  * @method static void set(\Illuminate\Support\Carbon|null $updated_at)
  * @method static \Illuminate\Support\Carbon|null get()
  *
- * @see \Abordage\LastModified\LastModified
+ * @see \Adinaria\LastModified\LastModified
  */
 class LastModified extends Facade
 {
