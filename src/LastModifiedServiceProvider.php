@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Abordage\LastModified;
+namespace Adinaria\LastModified;
 
 use Illuminate\Support\ServiceProvider;
 

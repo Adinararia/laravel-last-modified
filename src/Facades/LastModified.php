@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Abordage\LastModified\Facades;
+namespace Adinaria\LastModified\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

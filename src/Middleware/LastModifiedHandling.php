@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Abordage\LastModified\Middleware;
+namespace Adinaria\LastModified\Middleware;
 
 use Abordage\LastModified\Facades\LastModified;
 use Closure;
