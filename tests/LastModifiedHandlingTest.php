@@ -4,9 +4,9 @@ declare(strict_types=1);
 
 namespace Adinaria\LastModified\Tests;
 
-use Abordage\LastModified\Facades\LastModified;
-use Abordage\LastModified\LastModifiedServiceProvider;
-use Abordage\LastModified\Middleware\LastModifiedHandling;
+use Adinaria\LastModified\Facades\LastModified;
+use Adinaria\LastModified\LastModifiedServiceProvider;
+use Adinaria\LastModified\Middleware\LastModifiedHandling;
 use Illuminate\Support\Facades\Route;
 use Orchestra\Testbench\TestCase as Orchestra;
 

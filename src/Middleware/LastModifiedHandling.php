@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Adinaria\LastModified\Middleware;
 
-use Abordage\LastModified\Facades\LastModified;
+use Adinaria\LastModified\Facades\LastModified;
 use Closure;
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
