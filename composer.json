@@ -1,6 +1,6 @@
 {
     "name": "adinaria/laravel-last-modified",
-    "description": "Setting the Last-Modified header and 304 Not Modified response code if the page hasn't changed since the last visit",
+    "description": "Setting the Last-Modified header and 304 Not Modified response code if the page hasn't changed since the last visit, Work only with laravel 12",
     "license": "MIT",
     "keywords": [
         "304 Not Modified",
@@ -11,8 +11,7 @@
     ],
     "authors": [
         {
-            "name": "Pavel Bychko",
-            "email": "box@abordage.dev",
+            "name": "Aleksandr Beloded",
             "role": "Developer"
         }
     ],
